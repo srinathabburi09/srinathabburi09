@@ -5,6 +5,7 @@
 - 📫 How to reach me : abburisrinath09@gmail.com, 9390282405
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: :), not fun
+- You can find my projects on starred. So happy learning✌🏼
 
 <!---
 srinathabburi09/srinathabburi09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
